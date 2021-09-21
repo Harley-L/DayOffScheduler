@@ -1,5 +1,5 @@
 # DayOffScheduler
-### Welcome to the DOFF Scheduler. This is a guide to help use it and to help understand why it might not be working.
+### Camp Arowhon Day Off Scheduler. This is a guide to help install, use, and debug any errors that arise. 
 
 ## Installation (from the perspective of the client):
 1. Download the exe (approx 175mb)
