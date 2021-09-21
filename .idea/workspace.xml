@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc06344b-9929-4079-b4ca-3e6139b086ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ErrorHandeling/Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ErrorHandeling/Exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelReader/findStaff.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelReader/findStaff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelReader/otherReaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelReader/otherReaders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelReader/readerImports.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelReader/readerImports.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/guiHelperFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/guiHelperFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelperClasses/cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelperClasses/cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spreadsheets/CampDoffSchedule.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Spreadsheets/CampDoffSchedule.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spreadsheets/output.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Spreadsheets/output.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JupyterTrust" id="5ac0beb6-9f7e-4344-96d2-446a81904a8e" />
+  <component name="ProjectId" id="1qRqWrPpKTse0tPsnntEFYxAZTh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harle\Github\DayOffScheduler\Spreadsheets" />
+    </key>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.gui">
+=======
+  <component name="RunManager" selected="Python.test">
+>>>>>>> refs/remotes/origin/main
+    <configuration name="cycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DayOffScheduler-Github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelperClasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelperClasses/cycle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DayOffScheduler-Github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DayOffScheduler-Github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="otherReaders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DayOffScheduler-Github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExcelReader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelReader/otherReaders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DayOffScheduler-Github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.otherReaders" />
+        <item itemvalue="Python.cycle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc06344b-9929-4079-b4ca-3e6139b086ea" name="Default Changelist" comment="" />
+      <created>1617052785025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617052785025</updated>
+      <workItem from="1617560811447" duration="18000" />
+      <workItem from="1617562735664" duration="2479000" />
+      <workItem from="1617574838995" duration="4968000" />
+      <workItem from="1617581963103" duration="8423000" />
+      <workItem from="1617644415404" duration="765000" />
+      <workItem from="1617645347791" duration="2657000" />
+      <workItem from="1617653990135" duration="1336000" />
+      <workItem from="1617678544025" duration="3147000" />
+      <workItem from="1617728239293" duration="2123000" />
+      <workItem from="1618869853356" duration="51000" />
+      <workItem from="1619800813148" duration="6891000" />
+      <workItem from="1621104554922" duration="4980000" />
+      <workItem from="1621117188006" duration="7243000" />
+      <workItem from="1621189061746" duration="7236000" />
+      <workItem from="1621473252557" duration="32000" />
+      <workItem from="1622152789152" duration="4000" />
+      <workItem from="1622753532364" duration="6422000" />
+      <workItem from="1623206643147" duration="1500000" />
+      <workItem from="1623208382425" duration="2275000" />
+<<<<<<< HEAD
+      <workItem from="1623266819365" duration="467000" />
+      <workItem from="1623267840543" duration="109000" />
+      <workItem from="1623278647070" duration="1020000" />
+      <workItem from="1623344279183" duration="1621000" />
+      <workItem from="1623455564851" duration="3614000" />
+=======
+>>>>>>> refs/remotes/origin/main
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="166" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623206684669">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="583" y="166" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623206684669" />
+    <state x="104" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1280.722@0.25.1280.722" timestamp="1617053006902" />
+<<<<<<< HEAD
+    <state width="2005" height="191" key="GridCell.Tab.0.bottom" timestamp="1623459205958">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="191" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623459205958" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.25.1280.718@0.25.1280.718" timestamp="1623164529310" />
+    <state width="1259" height="159" key="GridCell.Tab.0.bottom/0.25.1280.720@0.25.1280.720" timestamp="1623165213388" />
+    <state width="2005" height="191" key="GridCell.Tab.0.center" timestamp="1623459205958">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="191" key="GridCell.Tab.0.center/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623459205958" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.25.1280.718@0.25.1280.718" timestamp="1623164529309" />
+    <state width="1259" height="159" key="GridCell.Tab.0.center/0.25.1280.720@0.25.1280.720" timestamp="1623165213387" />
+    <state width="2005" height="191" key="GridCell.Tab.0.left" timestamp="1623459205958">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="191" key="GridCell.Tab.0.left/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623459205958" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.25.1280.718@0.25.1280.718" timestamp="1623164529308" />
+    <state width="1259" height="159" key="GridCell.Tab.0.left/0.25.1280.720@0.25.1280.720" timestamp="1623165213387" />
+    <state width="2005" height="191" key="GridCell.Tab.0.right" timestamp="1623459205958">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="191" key="GridCell.Tab.0.right/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623459205958" />
+=======
+    <state width="1209" height="196" key="GridCell.Tab.0.bottom" timestamp="1623210673566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1209" height="196" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623210673566" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.25.1280.718@0.25.1280.718" timestamp="1623164529310" />
+    <state width="1259" height="159" key="GridCell.Tab.0.bottom/0.25.1280.720@0.25.1280.720" timestamp="1623165213388" />
+    <state width="1209" height="196" key="GridCell.Tab.0.center" timestamp="1623210673566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1209" height="196" key="GridCell.Tab.0.center/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623210673566" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.25.1280.718@0.25.1280.718" timestamp="1623164529309" />
+    <state width="1259" height="159" key="GridCell.Tab.0.center/0.25.1280.720@0.25.1280.720" timestamp="1623165213387" />
+    <state width="1209" height="196" key="GridCell.Tab.0.left" timestamp="1623210673566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1209" height="196" key="GridCell.Tab.0.left/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623210673566" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.25.1280.718@0.25.1280.718" timestamp="1623164529308" />
+    <state width="1259" height="159" key="GridCell.Tab.0.left/0.25.1280.720@0.25.1280.720" timestamp="1623165213387" />
+    <state width="1209" height="196" key="GridCell.Tab.0.right" timestamp="1623210673566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1209" height="196" key="GridCell.Tab.0.right/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623210673566" />
+>>>>>>> refs/remotes/origin/main
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.25.1280.718@0.25.1280.718" timestamp="1623164529310" />
+    <state width="1259" height="159" key="GridCell.Tab.0.right/0.25.1280.720@0.25.1280.720" timestamp="1623165213387" />
+    <state width="1750" height="337" key="GridCell.Tab.1.bottom" timestamp="1622773287261">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1622773287261" />
+    <state width="1750" height="337" key="GridCell.Tab.1.center" timestamp="1622773287260">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.center/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1622773287260" />
+    <state width="1750" height="337" key="GridCell.Tab.1.left" timestamp="1622773287260">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.left/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1622773287260" />
+    <state width="1750" height="337" key="GridCell.Tab.1.right" timestamp="1622773287261">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.right/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1622773287261" />
+    <state x="238" y="0" width="900" height="718" key="SettingsEditor" timestamp="1623206713091">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623206713091" />
+    <state x="149" y="25" width="900" height="718" key="SettingsEditor/0.25.1280.718@0.25.1280.718" timestamp="1623164527388" />
+    <state x="149" y="25" width="982" height="722" key="SettingsEditor/0.25.1280.722@0.25.1280.722" timestamp="1617053094350" />
+<<<<<<< HEAD
+    <state x="631" y="167" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1623457590133">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="631" y="167" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2048.1112/2560.174.1920.1040@0.0.2048.1112" timestamp="1623457590133" />
+=======
+>>>>>>> refs/remotes/origin/main
+    <state x="3072" y="339" width="896" height="710" key="find.popup" timestamp="1623208657369">
+      <screen x="2560" y="174" width="1920" height="1040" />
+    </state>
+    <state x="3072" y="339" width="896" height="710" key="find.popup/0.0.2048.1112/2560.174.1920.1040@2560.174.1920.1040" timestamp="1623208657369" />
+    <state x="341" y="139" width="597" height="490" key="find.popup/0.25.1280.718@0.25.1280.718" timestamp="1623162636254" />
+    <state x="305" y="71" width="670" height="676" key="search.everywhere.popup" timestamp="1617053121671">
+      <screen x="0" y="25" width="1280" height="722" />
+    </state>
+    <state x="305" y="71" width="670" height="676" key="search.everywhere.popup/0.25.1280.722@0.25.1280.722" timestamp="1617053121671" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DayOffScheduler_Github$main.coverage" NAME="main Coverage Results" MODIFIED="1623210006075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/DayOffScheduler_Github$gui.coverage" NAME="gui Coverage Results" MODIFIED="1623459172044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/DayOffScheduler_Github$gui.coverage" NAME="gui Coverage Results" MODIFIED="1623210018171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> refs/remotes/origin/main
+    <SUITE FILE_PATH="coverage/DayOffScheduler_Github$test.coverage" NAME="test Coverage Results" MODIFIED="1623210327744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
